@@ -1,5 +1,4 @@
-import 'package:dckap_shopping/View/Screens/Cart/cart.dart';
-import 'package:dckap_shopping/View/Screens/demo_screen.dart';
+
 import 'package:dckap_shopping/home_page.dart';
 import 'package:get/get.dart';
 
